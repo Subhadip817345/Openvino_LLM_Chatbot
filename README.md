@@ -8,7 +8,7 @@ The OpenVINO LLM Chatbot is an advanced conversational AI application designed t
 
 ## Programs / Files
 
-### 1. Prerequest
+### 1. Prerequisites
 
 Install all the required dependencies:
 If openvino is already install then no need to run it.
